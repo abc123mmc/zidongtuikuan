@@ -1,0 +1,1 @@
+pyside2-uic untitled.ui -o AppMain.py
